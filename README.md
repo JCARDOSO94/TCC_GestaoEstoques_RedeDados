@@ -7,7 +7,7 @@ Aluno: [João Carlos da Silva Cardoso](https://github.com/jcardoso94)
 
 Orientador: [Anderson Nascimento](https://github.com/insightds)
 
-[Link para o código]( https://github.com/JCARDOSO94/TCCl_GestaoEstoques_RedeDados)
+[Link para o código]: https://github.com/JCARDOSO94/TCCl_GestaoEstoques_RedeDados
 
 ### Resumo
 <!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
