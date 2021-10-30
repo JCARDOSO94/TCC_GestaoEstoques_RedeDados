@@ -2,7 +2,9 @@
 Trabalho final de curso onde foi elaborado projeto de BI utilizando o Power BI na gestão de ativos de estoque na visão de uma gerência de Rede de Dados
 
 Projeto de business intelligence na Gestão de ativos de uma área de TIC: Um estudo de caso 
+
 Aluno: [João Carlos da Silva Cardoso](https://github.com/jcardoso94)
+
 Orientador: [Anderson Nascimento](https://github.com/insightds)
 
 [Link para o código]( https://github.com/JCARDOSO94/TCCl_GestaoEstoques_RedeDados)
